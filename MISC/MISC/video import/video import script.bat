@@ -1,0 +1,1 @@
+FOR /F "tokens=*" %%G IN ('DIR /B /S *.avi,*.mov,*.wmv,*.m4v,*.webm') DO "C:\Program Files\Handbrake\HandBrakeCLI" -i "%%G" -o "%%~dG%%~pG%%~nG.mp4" -Z "Fast 1080p30" -a 1 -q 21 -r 24 --cfr -E lame -B 224 -w 1920 -l 1080
