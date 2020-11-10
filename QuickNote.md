@@ -5,4 +5,4 @@
 - [ ] RTF discussion post
 - [ ] COM essay next Monday
 - [ ] UGS last four thrive modules
-- [ ] UGS go through slides
+- [x] UGS go through slides
