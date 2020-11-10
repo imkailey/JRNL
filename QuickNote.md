@@ -1,7 +1,8 @@
-# 2020 11 09
+# 2020 11 09 TD
 
-- [ ] UGS last four thrive modules
 - [ ] AFR ref paper
 - [ ] RTF lectures
 - [ ] RTF discussion post
 - [ ] COM essay next Monday
+- [ ] UGS last four thrive modules
+- [ ] UGS go through slides
