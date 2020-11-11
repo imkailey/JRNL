@@ -4,6 +4,6 @@
 - [ ] RTF lectures
 - [ ] RTF discussion post
 - [ ] COM essay next Monday
-- [ ] UGS last four thrive modules
+- [x] UGS last four thrive modules
 - [x] UGS go through slides
 - [ ] go through classes; figure out what gonna take
