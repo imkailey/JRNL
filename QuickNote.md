@@ -9,3 +9,9 @@
 - when I went to John Paul II I had a lot more experience with a white asian and Hispanic students as opposed to etc etc
 - in Belleville there were a lot more white and Hispanic people and not that many black people
 - how could this affect my understanding of black people and black culture along with the issues that face black people in America today?
+
+---
+
+- could talk about how my sensory experience affects how I view art as compared to a neurotypical person
+- I have a very hard time seeing and hearing and my senses have become more and more dulled over time and this could affect stuff to do with art
+- I perceive things differently
