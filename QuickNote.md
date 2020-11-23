@@ -12,6 +12,4 @@
 
 ---
 
-- could talk about how my sensory experience affects how I view art as compared to a neurotypical person
-- I have a very hard time seeing and hearing and my senses have become more and more dulled over time and this could affect stuff to do with art
-- I perceive things differently
+also there is a difference between rhythm and actual verbal words and stuff in my head which is weird
