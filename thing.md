@@ -1,0 +1,8 @@
+- think back to that old YouTube recommendation where it was the guy from the '50s talking about how different people's accents were different because we didn't have a standardized thing such as spelling
+- Even back in the '50s this professorand the things that may have affected that
+- this professor appreciated the differences between different groups of people
+- gender wise this group was pretty diverse, but it was not racially diverse
+- Even then, we can still look at this as a positive example of stuff
+- I don't know where my accent is from; people from Bellville say I sound like I'm from the north, but I'm not completely sure about that
+- I'm not quite sure where the way I speak comes from, or how it's developed over the course of my life, but a lot of people seem to appreciate my voice and the way that I talk; I also do to self voice training and doing voice acting things over a long long time have a lot of control over the range of my voice, if not necessarily the pitch all of the time
+- I'm not quite sure where or when my accent is from, if it has anything to do with me being on the internet a lot; maybe has to do with private Catholic schooling in Urban Houston; maybe has to do with the music I listen to and the people I grew up around; Even back in 7th grade I had a weird voice; I have a very deep voice naturally and have a very wide vocal range by force; people say I would have a really good voice for radio; my weird accent and way that I speak in enunciate may have to do with my neurodivergence, because the way that I talk and communicate verbally is f***** up by that
