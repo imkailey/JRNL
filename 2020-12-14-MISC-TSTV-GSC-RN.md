@@ -2,9 +2,9 @@
 
 ## GSC
 
-The website has three main parts that tell you the opportunities available 
+The website has three main parts that tell you the opportunities available
 
-There's the 
+There's the
 1. Google Calendar
 2. Padlet
 3. Virtual billboard at the bottom
@@ -17,7 +17,7 @@ There's the
 
 ### How to get involved
 
-Use our "Shows" tab to find shows which pique your interests, and join using the link provided. No shows that interest you? TSTV also is home to the [TSTV Incubator Program](http://watchtstv.com/incubator) in which narrative pilots are pitched and developed. If you have an idea for a television show or just want to learn how the process works, this is for you. Learn all about the process of creating a TSTV show, from development to airtime. 
+Use our "Shows" tab to find shows which pique your interests, and join using the link provided. No shows that interest you? TSTV also is home to the [TSTV Incubator Program](http://watchtstv.com/incubator) in which narrative pilots are pitched and developed. If you have an idea for a television show or just want to learn how the process works, this is for you. Learn all about the process of creating a TSTV show, from development to airtime.
 
 One of the best parts about TSTV is the fact that it is very flexible and most students can find a way to fit it into their schedule even if they are involved with other activities. After attending a workshop, volunteers will gain access to the studio, editing lab, and equipment resources that they otherwise wouldn't have access to until their later years of school. While the majority of TSTV volunteers are Radio-Television-Film or Journalism majors in the Moody College of Communication, it is by no means a necessity. TSTV provides anyone from any major a chance to work in whatever interests them. Don't want to wait until the next general meeting? Contact us! You can be added to our email list and find out when our shows meet.
 
@@ -31,4 +31,3 @@ Whether you are a first-year student or a fifth-year student, there's a place fo
 ## [Bevo Video Productions](https://bevovideo.com/)
 
 [Form to work for them](https://utexas.qualtrics.com/jfe/form/SV_ahFXwhpajxR5Sdf)
-
