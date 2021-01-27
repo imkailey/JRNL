@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<app-list>
+  <app name="APK Installer" package="com.apkinstaller.ApkInstaller" />
+  <app name="Assistant" package="com.google.android.apps.googleassistant" />
+  <app name="Blackr" package="com.neximolabs.blackr" />
+  <app name="Darker" package="com.mlhg.screenfilter" />
+  <app name="Delta" package="website.leifs.delta" />
+  <app name="Docs" package="com.google.android.apps.docs.editors.docs" />
+  <app name="Drive" package="com.google.android.apps.docs" />
+  <app name="File Viewer" package="com.sharpened.androidfileviewer" />
+  <app name="Files by Google" package="com.google.android.apps.nbu.files" />
+  <app name="Firefox" package="org.mozilla.firefox" />
+  <app name="Firefox Lockwise" package="mozilla.lockbox" />
+  <app name="Flud" package="com.delphicoder.flud" />
+  <app name="FNG" package="com.fb.fluid" />
+  <app name="Google Opinion Rewards" package="com.google.android.apps.paidtasks" />
+  <app name="Google PDF Viewer" package="com.google.android.apps.pdfviewer" />
+  <app name="Google Play Books" package="com.google.android.apps.books" />
+  <app name="Google Play Games" package="com.google.android.play.games" />
+  <app name="Google Podcasts" package="com.google.android.apps.podcasts" />
+  <app name="GroupMe" package="com.groupme.android" />
+  <app name="Home" package="com.google.android.apps.chromecast.app" />
+  <app name="Keep Notes" package="com.google.android.keep" />
+  <app name="Pear Launcher" package="com.pearlauncher.pearlauncher" />
+  <app name="Photos" package="com.google.android.apps.photos" />
+  <app name="Pocket" package="com.ideashower.readitlater.pro" />
+  <app name="ReadEra" package="org.readera" />
+  <app name="Reddit" package="com.reddit.frontpage" />
+  <app name="Sectograph" package="prox.lab.calclock" />
+  <app name="Sheets" package="com.google.android.apps.docs.editors.sheets" />
+  <app name="Slides" package="com.google.android.apps.docs.editors.slides" />
+  <app name="Spark" package="com.readdle.spark" />
+  <app name="Tasks" package="com.google.android.apps.tasks" />
+  <app name="Torrz" package="com.easelifeapps.torrz" />
+  <app name="UFCU" package="org.ufcu.mobile" />
+  <app name="Venmo" package="com.venmo" />
+  <app name="Video MP3 Converter" package="com.fundevs.app.mediaconverter" />
+  <app name="VLC" package="org.videolan.vlc" />
+  <app name="Word" package="com.microsoft.office.word" />
+  <app name="YT Studio" package="com.google.android.apps.youtube.creator" />
+  <app name="Zoom" package="us.zoom.videomeetings" />
+</app-list>
