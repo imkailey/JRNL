@@ -1,4 +1,4 @@
-- [ ] psy readings
+- [x] psy readings
 - [ ] math HW
 - [ ] rtf lectures; rtf ea
 - [ ] math study
@@ -8,3 +8,6 @@ Shopping list
 - [ ] Dr pepper
 - [ ] condoms
 - [ ] heating pad
+- [ ] chocolate
+- [ ] ice cream
+
