@@ -1,0 +1,5 @@
+- [ ] psy readings
+- [ ] math HW
+- [ ] rtf lectures; rtf ea
+- [ ] math study
+- [ ] english reading
