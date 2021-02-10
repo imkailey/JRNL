@@ -5,9 +5,9 @@
 - [ ] english reading
 
 Shopping list
-- [ ] Dr pepper
-- [ ] condoms
-- [ ] heating pad
+- [x] Dr pepper
+- [x] condoms
+- [x] heating pad
 - [ ] chocolate
 - [ ] ice cream
 
