@@ -1,4 +1,0 @@
-- dr pepper
-- chocolate syrup
-- fries
-- nuggets
