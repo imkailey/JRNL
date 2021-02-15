@@ -1,0 +1,1 @@
+He wants to be seen as making more money than he is to try to increase his social standing and make people think better of him. He could have been advertised to in the past to want to buy the shirt, with a focus on togetherness or quality. He thought it would solve a problem it probably won't help with at all.
