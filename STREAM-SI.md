@@ -1,5 +1,6 @@
+##stream script idea: *the EJ complaint*
 
-talk about my experiences in the industry in general; internship early on; professional environments; freelance and client work; etc
+talk about my experiences in the rtf industry in general; internship early on; professional environments; freelance and client work; etc
 
 
 talk about my experiences in GenStrike; talk about the lack of communication; self led in kind of good way but also kind of bad
@@ -10,6 +11,16 @@ decentralized leadership can be cool, however it can lead to some issues with ce
 
 ### why im dissapointed in EJ
 talk about EJ specifically; was important due to his size and major role in its creation; EJ was always bad at communication, is on other side of world, but i still would wait all night and he would never show into a call; would forget about podcast dates/recording dates; would be very late to answer dms; would flake out on agreed upon dates and things and places to be 
+
+---
+
+while writing this i remembered antoher story
+
+we needed to get a hold of ej for something pretty important; i thkn it was a live stream thing or an important event or we really needed him to film something; turns out EJ doesnt have discord on his phone, and he was out at lunch with his partner luna; we neeeded to contact antother youtuber who had his phone number to eventually get  a hold of him i believe? i dont remember too many of the details but not having discord on your phone is weird to me personally.
+
+i get and understand that people get anxiety from too many messages, but not planning for anything like this is crazy for a decently sized youtuber being a big part of a pretty large group. i think we had to go through multiple people to eventually get some kind of message or something; i dont really remember that much tbh
+
+---
 
 i understand these issues to some extent, however even at its current diminished size there's well over 400 people in the GenStrike discord server currently, and I was one of the head admins of one of the entire departments; here's an easy solution in my eyes, you need some sort of triage; a list of people you respond to quickly or at least check in on regularly
 
