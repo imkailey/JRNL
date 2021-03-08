@@ -15,8 +15,11 @@ south = South ?
 ---
 
 intro 
+----
 
 while this section of the bookisnt written by Frederick Douglasshimself, looking at the preface it shows that other abolitionist activists had told him it would be a good idea to express his ideas and his past into a book form, because a lot of people in the north didn't know the conditions enslaved people were subjected to. [preface author] says that Douglass lived in better conditions than many enslaved people lived in in the south, but that even then Douglass went through hell. 
+
+Douglass didn't just want to show those conditions, but also to highlight the lack of value given to the lives of enslaved individuals. The lack of prosecution when someone kills an enslaved person happens multiple times throughout the book, and just highlights the lack of regard given to those who were enslaved.
 
 
 
