@@ -1,0 +1,3 @@
+https://youtu.be/WyR_fllF8Vw
+
+This scene to me shows the concept of the male gaze almost explicitly, with the guy staring at megan fox's breasts and stomach for a lot of it. The way the camera pans around and the amount of sexualization going on, even though she like tries to explain car things to him is really annoying to me. Fan service is completely ok, but there comes a point where it gets kind of annoying. 
