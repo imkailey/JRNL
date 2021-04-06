@@ -6,5 +6,3 @@
 - you give yourself the benefit of the doubt most the time
   - see ourselves as good and competent
 - being mentally disabled makes these communication things really hard so i like to make communication explicit more often than implicit
-
-###
