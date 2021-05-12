@@ -1,14 +1,10 @@
-## english essay 3
-
-Select EITHER Richard Wright's "The One Room Kitchenette" OR Mike Gold's "Sam Kravitz, that Thief." What is the role of place and/or space in the story? How are spaces or places described, and how do these descriptions connect to a larger characterization of the United States? Include at least three direct quotes from the story you choose in your response to this prompt. 
+## English essay 3
 
 - Remember that your paper should be at least 
   - 500-750 words in length
   - double-spaced
   - with 12-point font 
   - 1-inch margins
-  
-Select EITHER Richard Wright's "The One Room Kitchenette" OR Mike Gold's "Sam Kravitz, that Thief." 
 
 ---
 
@@ -16,7 +12,7 @@ Select EITHER Richard Wright's "The One Room Kitchenette" OR Mike Gold's "Sam Kr
 
 1. What is the role of place and/or space in the story? 
 
-the places the father lives show his standard of living, along with his social standing. At the beginning of the story, 
+The places the father lives show his standard of living, along with his social standing. At the beginning of the story, he’s in Romania, where hes generally living fine, but he wants more in life. He sees America as an opportunity to get a better lot in life, where people don’t have to worry due to the standard of living being higher. He then realizes America at the time was generally grungy and gross, especially for poor people. It feels like the spaces within the story shift as the story progresses. As the father starts to feel better about his standing, his description of his place in life generally improves. As the father is worse off, America feels like a more shifty place than it did before. 
 
 
 
