@@ -28,15 +28,11 @@
 - groups are being formed and are working to actively educate policymakers about their interests
 
 ### theories of power 
-
 #### democracy
 - opportunities for direct democracy are really rare
 - people arent necessarily the best informed
 - people often dont have time to dedicate to learning about political stuff
 - how we would like the world to work, however
-
-
-
 
 #### elitism
 - the idea that elites have all of the power or none of it
@@ -44,10 +40,6 @@
 - assumption of shared goal of all of the elites, which isnt necessarily true
 - fairly large group 
 - just bc elites exist doesnt prove elitism 
-
-
-
-
 
 #### pluralism [liberallism or polyarchy]
 - one of the key ppl is robert doll
@@ -66,6 +58,7 @@
 	- not all groups can mobilize
 	- sometimes leadership and rank in file membership dont work together
 	- sometimes the groups just dont form 
+
 ### collective action problem 
 - free rider problem
   - people can benefit from something the group is doing without putting any effort in 
@@ -98,18 +91,15 @@
 - dictates incentives to mobilize or not 
 
 ### overcoming the collective action problem 
-
 - best way is to offer incentives 
 - side benefits of belonging to an organization 
 
 
 #### material incentives
-
 - tangible rewards that are things priced in monetary terms 
 - can make controvertial decisions, 
 
 #### solidarity incentives
-
 - people want to do stuff and be a part of the organization, would feel bad if they didnt
 - look better for being a part of it 
 - cant make controvertial decisions, people might get disgusted and leave 
@@ -121,5 +111,18 @@
 - feel better about myself bc done something right 
 - more likely to take part in controversial actions 
 
+### lobbying
+- people meeting with elected officials to express their needs
+- to educate policymakers 
+- classic lobbying 
+- grassroots lobbying 
+  - efforts on the parts of groups of associations to influence elected officials indirectly by rousing teir sconstituents 
+  - calling in even if cant meet directly
+- more likely to get an audience if contribute 
 
-
+#### the five commandments of lobbying congress 
+1. tell the truth
+2. never promise more than you can deliver 
+3. know how to listen so that you accurately understand what you are hearing 
+4. staff are there to be worked with, not circumvented
+5. spring no surprises
