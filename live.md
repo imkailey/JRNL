@@ -17,7 +17,8 @@
 <!---->
 ---
 
-### a chair and desk ... cost $250
+### A rock 'n' roll telethon with a $10-million goal
+- A press desk and chair cost $250 for journalists
 - Tickets originally $35
   - Sold out quickly
   - Cover most the costs
@@ -36,7 +37,7 @@ see if can get a copy of the $10 60 page program
   - A lot of that money goes into the market
   - Hard time transporting what little actually gets to Africa
 
-### Coverage from 1-d
+### For MTV it's charity; for ABC it's business
 - ABC charged affiliates for the coverage of the concert
   - Not normal
   - Normally get concerts for free
