@@ -5,18 +5,16 @@
 - Stuart Ramser knows mom
   - The Austin American-Statesman owner
 
----
-
-## Things to look into
+<!--## Things to look into
 - [x] lawsuit for coverage of Live Aid over radio from the record labels
-- [ ] individuals involved in everything
-
-### People add to list
+- [x] individuals involved in everything-->
+<!---->
+<!--### People add to list
 - [x] President of coke/marketing from this time period
   - Couldn't find the marketing head
 - [x] President of Pepsi/marketing from this time period
-  - Couldn't find the marketing head
-
+  - Couldn't find the marketing head-->
+<!---->
 ---
 
 ### a chair and desk ... cost $250
