@@ -1,5 +1,7 @@
 # Live Aid research doc
-- for some reason all of the newspaper postings selling tickets to Live Aid don't show prices
+
+### classifieds
+- for some reason all of the newspaper classifieds selling tickets to Live Aid don't show prices
   - very reasonable
   - was this regular for newspapers of the time
 - Stuart Ramser knows mom
@@ -44,6 +46,9 @@ see if can get a copy of the $10 60 page program
   - Pepsi billboard in the area
   - Coke was one of the main advertisers
   - Goes thru the details of the radio and TV agreements with smaller local stations
+
+### Amid baseball and golf, a USFL title game, boxing
+- Channel 10 is carrying Live Aid Concert and not handling the women's tournament until Sunday
 
 https://www.newspapers.com/image/321360670/?terms=live%2Baid&match=1
 
