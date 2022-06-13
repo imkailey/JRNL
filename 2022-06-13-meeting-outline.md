@@ -1,4 +1,4 @@
-# meeting outline
+# 2022-06-13-meeting-outline
 - go over lawsuit first
   - westwood one sued ABC because they didnt get a backstage press pass
   - they had a verbal agreement that they would get one
