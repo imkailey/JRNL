@@ -9,6 +9,8 @@
   - had heavily criticized a lot of the artists at live aid before the fact
   - wikipedia page doesnt even mention his live aid criticisms and it goes pretty in detail
   - definitely a guy to talk to 
+  - he wrote a book in august 1985, a bunch of exerpts from his confidential insider newspaper
+  - has stuff about live aid in it, so i ordered it 
 - kidney guy story
   - way more interesting, found the whole story
   - police got in contact with his dad after looking for him after finding a kidney 
