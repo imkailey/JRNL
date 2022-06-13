@@ -15,8 +15,9 @@
   - dad called the police in philly didnt get a response
   - called the venue and a girl in a van working the event got the call 
   - she got chevy chase to announce the kidney on stage so fallon could get it
-  - gave a time stamp too, around 11:30 i think 
+  - gave a time stamp too, around 11:30 I think 
   - seemed successful at the time 
   - had names of everyone involved with the process 
-- also, i went through and added all of the journalists and people involved in the sheet
-- i also went through and added some of the events to the events section 
+- also, I went through and added all of the journalists and people involved in the sheet
+  - except I didn't add the ones from the austin american-statesman
+- I also went through and added some of the events to the events section 

@@ -2,9 +2,9 @@
 
 ### classifieds
 - for some reason all of the newspaper classifieds selling tickets to Live Aid don't show prices
-  - very reasonable
-  - was this regular for newspapers of the time
-- Stuart Ramser knows mom
+  - Very reasonable
+  - Was this regular for newspapers of the time?
+- Stuart Ramser knows my mom
   - The Austin American-Statesman owner
 
 <!--## Things to look into
@@ -103,7 +103,7 @@ https://www.newspapers.com/image/757100314/?terms=live%2Baid&match=1
 - Faster tape speeds for higher quality
 - Mentioned something called a simulcast
   - Stereo sound
-- Main worry was trying to get the best edit of the tape in the future, so recording good at the time v important
+- Main worry was trying to get the best edit of the tape in the future, so recording good at the time was very important
 
 https://www.newspapers.com/image/173626404/?terms=live%2Baid&match=1
 
