@@ -1,7 +1,7 @@
 # Live Aid research doc
 - for some reason all of the newspaper postings selling tickets to Live Aid don't show prices
   - very reasonable
-  - was this regular for newspapers of the time 
+  - was this regular for newspapers of the time
 - Stuart Ramser knows mom
   - The Austin American-Statesman owner
 
@@ -15,7 +15,7 @@
 - [x] President of coke/marketing from this time period
   - Couldn't find the marketing head
 - [x] President of Pepsi/marketing from this time period
-  - Couldn't find the marketing head 
+  - Couldn't find the marketing head
 
 ---
 
@@ -87,7 +87,7 @@ https://www.newspapers.com/image/757100314/?terms=live%2Baid&match=1
 - It's how big it is that really impacts people
 - Like being able to watch Woodstock from home
 - Woodstock but more commercialized and less political explicitly?
-- Kinda demythologized Woodstock
+- Demythologized Woodstock
 - Original Woodstock had a few film cameras
 - Changes whether people want to go or what vibe the place has
 - They had big video screens at Live Aid
@@ -122,7 +122,7 @@ https://www.newspapers.com/image/173626404/?terms=live%2Baid&match=1
   - Mostly a focus on changing the world and on the music
   - My dad thought it was for aids
 - Mostly a cynical look at the whole event
-  - From the perspective of someone who' s a rock fan who feels pandered to in a bad way
+  - From the perspective of someone who's a rock fan who feels pandered to in a bad way
   - Focused on a lot of the criticism from within communities related to this
 
 https://www.newspapers.com/image/173672512/?terms=live%2Baid&match=1
@@ -149,7 +149,7 @@ https://www.latimes.com/archives/la-xpm-1985-07-09-ca-8308-story.html
 ---
 
 ## LA Times 2
-- looks as though wasn’t successful, argued would do big damage to abc, 
+- looks as though wasn’t successful, argued would do big damage to abc,
 - abc argues should sue artists
 
 https://www.latimes.com/archives/la-xpm-1985-07-06-me-9534-story.html
@@ -166,5 +166,3 @@ https://www.latimes.com/archives/la-xpm-1985-07-06-me-9534-story.html
 https://en.m.wikipedia.org/wiki/Dave_Marsh
 
 ---
-
-
