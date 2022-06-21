@@ -281,11 +281,46 @@ https://en.m.wikipedia.org/wiki/Dave_Marsh
   - Many elite groups formed just to go to the event
   - If you were involved with the WPE you were not allowed to go
 
+## 1983-1985 Famine in Ethiopia 
+- main regions affected 
+  - Tigray 
+  - Wollo 
+  - Begemder
+- 7.75 million people out of Ethiopia's 38–40 million affected 
+- 2.5 million people were internally displaced 
+- 400,000 refugees left Ethiopia
+- Almost 200,000 children were orphaned
+- took place a decade into the [Ethiopian Civil War](https://en.wikipedia.org/wiki/Ethiopian_Civil_War)
+- Tofficially ascribed to drought
+In recent years, the favored explanation for the famine of 1983–1985 is "war and drought"
+- famines that struck Ethiopia between 1961 and 1985
+  - in particular the one of 1983–1985
+  - in part created by the government's military policies
+    - specifically a set of so-called counter-insurgency strategies 
+	  - (against Tigray People's Liberation Front guerrilla-soldiers)
+	- and for "social transformation" in non-insurgent areas 
+	  - (against people of Tigray Province, Wollo Province and such)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Solomonic Dynasty Wikipedia](https://en.wikipedia.org/wiki/Solomonic_dynasty)
 [Derg Wikipedia](https://en.wikipedia.org/wiki/Derg)
 [Live Aid Wikipedia](https://en.wikipedia.org/wiki/Live_Aid#Fund_use_in_Ethiopia)
 [PDRE Wikipedia](https://en.wikipedia.org/wiki/People%27s_Democratic_Republic_of_Ethiopia)
 [TGE Wikipedia](https://en.wikipedia.org/wiki/Transitional_Government_of_Ethiopia)
+[1983–1985 famine in Ethiopia](https://en.wikipedia.org/wiki/1983%E2%80%931985_famine_in_Ethiopia)
 
 ---
 
@@ -298,3 +333,19 @@ https://www.ranker.com/list/live-aid-behind-the-scenes-stories/oliver-pretl-drum
 ---
 
 a lot of things are in the Live Aid wiki, the people that organized it, the people that inspired it, etc
+
+---
+
+## notes
+
+- look into the groups affected by the famine specifically 
+- boy george look into 
+- focus more on the historical events leading up to the concert
+
+
+
+
+
+
+
+
