@@ -300,9 +300,21 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 	  - (against Tigray People's Liberation Front guerrilla-soldiers)
 	- and for "social transformation" in non-insurgent areas 
 	  - (against people of Tigray Province, Wollo Province and such)
+- Throughout the feudal era, 
+  - famines were common in Ethiopia, 
+  - especially in the north.[17] 
+  - Local famines were also frequent but also unrecorded. 
+- The most infamous was the "Great Ethiopian Famine" 
+  - killed approximately one third of Ethiopia's population
+  - (no wiki page?)
+  - [1888 to 1892](https://www.cbc.ca/documentarychannel/features/ethiopias-unforgettable-famines-heres-why-they-really-happen)
+    - commonly referred to as kifu qan 
 
-
-
+### summary
+- ethiopia is generally a drought stricken region
+  - now as in the past this has been used as a tool of war 
+- the 1983-1985 drought was made way worse due to such a tactic
+  - especially in tigray
 
 
 
@@ -336,10 +348,9 @@ a lot of things are in the Live Aid wiki, the people that organized it, the peop
 
 ---
 
-## notes
-
+## 2022-06-21 Notes from Meeting 
 - look into the groups affected by the famine specifically 
-- boy george look into 
+- look into boy george 
 - focus more on the historical events leading up to the concert
 
 
