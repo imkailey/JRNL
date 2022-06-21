@@ -315,12 +315,12 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 
 
 
-[Solomonic Dynasty Wikipedia](https://en.wikipedia.org/wiki/Solomonic_dynasty)
-[Derg Wikipedia](https://en.wikipedia.org/wiki/Derg)
-[Live Aid Wikipedia](https://en.wikipedia.org/wiki/Live_Aid#Fund_use_in_Ethiopia)
-[PDRE Wikipedia](https://en.wikipedia.org/wiki/People%27s_Democratic_Republic_of_Ethiopia)
-[TGE Wikipedia](https://en.wikipedia.org/wiki/Transitional_Government_of_Ethiopia)
-[1983–1985 famine in Ethiopia](https://en.wikipedia.org/wiki/1983%E2%80%931985_famine_in_Ethiopia)
+[Solomonic Dynasty Wikipedia](https://en.wikipedia.org/wiki/Solomonic_dynasty)<br>
+[Derg Wikipedia](https://en.wikipedia.org/wiki/Derg)<br>
+[Live Aid Wikipedia](https://en.wikipedia.org/wiki/Live_Aid#Fund_use_in_Ethiopia)<br>
+[PDRE Wikipedia](https://en.wikipedia.org/wiki/People%27s_Democratic_Republic_of_Ethiopia)<br>
+[TGE Wikipedia](https://en.wikipedia.org/wiki/Transitional_Government_of_Ethiopia)<br>
+[1983–1985 famine in Ethiopia](https://en.wikipedia.org/wiki/1983%E2%80%931985_famine_in_Ethiopia)<br>
 
 ---
 
