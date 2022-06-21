@@ -110,8 +110,9 @@ https://www.newspapers.com/image/173626404/?terms=live%2Baid&match=1
 ---
 
 ## 15 Jul 1985 Pg 5
+
 ### Long on performances, short on political context
-- Live aid more nostalgic than revolutionary than Woodstock
+- Live Aid more nostalgic than revolutionary than Woodstock
 - Very little Black representation for an event giving to Africa
 - Didn't really focus on the details of what was going on, first was virtue signaling
 - Current music environment did not focus on the bigger picture, who was influenced by what and who influences what
@@ -134,8 +135,9 @@ https://www.newspapers.com/image/173672512/?terms=live%2Baid&match=1
 ---
 
 ## first page viewscan_0000, 10 July 85, Austin American statesman
-### Network sues for access to live aid concert
-- Westwood one suing for rights to show live aid concert
+
+### Network sues for access to Live Aid concert
+- Westwood one suing for rights to show Live Aid concert
 - Have exclusive radio rights to some of the artists
 - find out who won
 - Westwood wouldn’t have been allowed backstage
@@ -145,7 +147,7 @@ https://www.newspapers.com/image/173672512/?terms=live%2Baid&match=1
 
 ## LA Times 1
 - same thing as last one
-- abc bought rights to show live aid for at least $500,000 and didn’t anticipate making a profit
+- abc bought rights to show Live Aid for at least $500,000 and didn’t anticipate making a profit
 - Had a verbal agreement that they would get backstage passes but was taken back
 
 https://www.latimes.com/archives/la-xpm-1985-07-09-ca-8308-story.html
@@ -164,22 +166,29 @@ https://www.latimes.com/archives/la-xpm-1985-07-06-me-9534-story.html
 - big music critic
 - Written lots of books on different artists
 - Picky in general
-- Didn’t mention live aid comments, but sounds like him
-- very critical of the people at live aid before and after it happened
+- Didn’t mention Live Aid comments, but sounds like him
+- very critical of the people at Live Aid before and after it happened
 
 https://en.m.wikipedia.org/wiki/Dave_Marsh
 
 ---
 
-## live aid Wiki 
-
-### Fund use in Ethiopia
-- Geldof deliberately ignored warnings from **Médecins Sans Frontières**
-  - about the role of the Ethiopian Government under Derg leader **Mengistu Haile Mariam** in causing the famine and that by working with Mengistu directly
-- funds from live aid were siphoned off to buy arms from the soviet union
-  - this exacerbated existing issues
-- Geldof ignored them and the **Spin** article, thinking he could still do good in the area on his own 
-- wasnt an issue with Band Aid, but was with Live Aid 
+## Solomonic dynasty
+- aka the House of Solomon
+- was a dynasty of the Ethiopian Empire 
+- formed in the thirteenth century
+- Its members claim lineal descent from the biblical King Solomon and the Queen of Sheba
+- Tradition asserts that the queen gave birth to Menelik I after her biblically described visit to Solomon in Jerusalem
+- 1270: Zagwe dynasty was overthrown by Yekuno Amlak
+  - claimed descent from Solomon and founded the Solomonic era of Ethiopia
+- The dynasty lasted until 1974
+  - ended by a coup d'état and the deposition of **Haile Selassie**
+    - a Solomonic prince through his grandmother
+- potentially still living members
+  - were freed by 1990
+  - could try to find living members and try to get their perspective 
+- the royal line not necessarily super clear
+  - looks like people were more distantly related 
 
 ## Derg Wiki 
 - ruled Ethiopia and present-day Eritrea 
@@ -211,27 +220,72 @@ https://en.m.wikipedia.org/wiki/Dave_Marsh
     - still dominated by members of the Derg
 - **Mengistu is still alive and I believe free** 
   - despite being convicted of genocide??
+- Kept fighting in wars because for a while was under the Emperor
+- a lot of political opponents killed initially
+- Had ~109 ppl to start, only got smaller as people got killed
+- Extremely secretive
+- Mengistu executed all of the people around him who disagreed
+  - became undisputed leadership of the country
+  - main one who made the derg a civilian gov
+- drought started months after the famine and was an excuse
+- lots of refugees, caused Ethiopian diaspora for the first time
 
-## Solomonic dynasty
-- aka the House of Solomon
-- was a dynasty of the Ethiopian Empire 
-- formed in the thirteenth century
-- Its members claim lineal descent from the biblical King Solomon and the Queen of Sheba
-- Tradition asserts that the queen gave birth to Menelik I after her biblically described visit to Solomon in Jerusalem
-- 1270: Zagwe dynasty was overthrown by Yekuno Amlak
-  - claimed descent from Solomon and founded the Solomonic era of Ethiopia
-- The dynasty lasted until 1974
-  - ended by a coup d'état and the deposition of **Haile Selassie**
-    - a Solomonic prince through his grandmother
-- potentially still living members
-  - were freed by 1990
-  - could try to find living members and try to get their perspective 
-- the royal line not necessarily super clear
-  - looks like people were more distantly related 
+### 1984-1985 aid
+- Oxfam another charity drive around time of Live Aid, also a concert
+- used some of the money for enforced resettlement programs
+  - 50,000-100,000 dead
+- Some of the ngos controlled by derg
+- BBC alleged money was used to buy arms, but this was retracted
 
-https://en.wikipedia.org/wiki/Live_Aid#Fund_use_in_Ethiopia
-https://en.wikipedia.org/wiki/Derg
-https://en.wikipedia.org/wiki/Solomonic_dynasty
+### Dissolution
+- at the end, Mengistu freaking out
+- Most the derg officials were imprisoned for twenty years and released
+- Some escaped and tried to overthrow new government
+- Mengistu freaks out and flees before the end of the regime, getting to Kenya and flying him and his immediate family to Zimbabwe
+  - still there
+- a lot of the derg officials tried, even if not there
+- 23 given death penalty
+- Ethiopian definition of genocide includes political groups
+- Mengistu sentenced to death in absentia in Ethiopia
+- Now I’m very disinterested
+- four chairmen of derg ever, first two in 1974, one from 1974-1977, Mengistu  from 1977-1987
+
+## Live Aid Wiki 
+
+### Fund use in Ethiopia
+- Geldof deliberately ignored warnings from **Médecins Sans Frontières**
+  - about the role of the Ethiopian Government under Derg leader **Mengistu Haile Mariam** in causing the famine and that by working with Mengistu directly
+- funds from Live Aid were siphoned off to buy arms from the soviet union
+  - this exacerbated existing issues
+- Geldof ignored them and the **Spin** article, thinking he could still do good in the area on his own 
+- wasnt an issue with Band Aid, but was with Live Aid 
+
+## People's Democratic Republic of Ethiopia (PDRE)
+- National Shengo was the National legislature
+- A lot of de facto power
+- President had a huge power legislatively and executively
+- President head of council of state
+  - acted for shengo between sessions
+- principles of democratic centralism meant shengo just rubber stamped things from the politburo and WPE 
+- EPDRF dissolved pdre and replaced it with the transitional government of Ethiopia (TGE)
+
+## Transitional Government of Ethiopia (TGE)
+- meles zenawi President at start 
+- tamrat layne prime minister at start
+- redid regional boundaries to align with ethnic and language Boundaries
+- 1991-1995
+- federal Democratic republic of Ethiopia came after, still remains today
+- National Conference on Peace and Reconciliation July 1991
+  - the conference was intended to outline a transitional framework for the period following the newest regime change
+  - Group that attended had to be ethnicity based
+  - Many elite groups formed just to go to the event
+  - If you were involved with the WPE you were not allowed to go
+
+[Solomonic Dynasty Wikipedia](https://en.wikipedia.org/wiki/Solomonic_dynasty)
+[Derg Wikipedia](https://en.wikipedia.org/wiki/Derg)
+[Live Aid Wikipedia](https://en.wikipedia.org/wiki/Live_Aid#Fund_use_in_Ethiopia)
+[PDRE Wikipedia](https://en.wikipedia.org/wiki/People%27s_Democratic_Republic_of_Ethiopia)
+[TGE Wikipedia](https://en.wikipedia.org/wiki/Transitional_Government_of_Ethiopia)
 
 ---
 
@@ -243,4 +297,4 @@ https://www.ranker.com/list/live-aid-behind-the-scenes-stories/oliver-pretl-drum
 
 ---
 
-a lot of things are in the live aid wiki, the people that organized it, the people that inspired it, etc
+a lot of things are in the Live Aid wiki, the people that organized it, the people that inspired it, etc
