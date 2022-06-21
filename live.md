@@ -162,6 +162,14 @@ https://www.latimes.com/archives/la-xpm-1985-07-06-me-9534-story.html
 
 ---
 
+## ranker 
+- the who blew a fuse at the stadium and the braodcast was inturrupted but they kept performing
+- for unknown reasons tom petty flipped off the audience during a song american girl
+
+[Live Aid Behind the Scenes Ranker](https://www.ranker.com/list/live-aid-behind-the-scenes-stories/oliver-pretl-drummond)
+
+---
+
 ## Dave marsh Wikipedia
 - big music critic
 - Written lots of books on different artists
@@ -302,7 +310,7 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 	  - (against people of Tigray Province, Wollo Province and such)
 - Throughout the feudal era, 
   - famines were common in Ethiopia, 
-  - especially in the north.[17] 
+  - especially in the north.
   - Local famines were also frequent but also unrecorded. 
 - The most infamous was the "Great Ethiopian Famine" 
   - killed approximately one third of Ethiopia's population
@@ -329,53 +337,6 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 
 ---
 
-## ranker 
-- the who blew a fuse at the stadium and the braodcast was inturrupted but they kept performing
-- for unknown reasons tom petty flipped off the audience during a song american girl
-
-[Live Aid Behind the Scenes Ranker](https://www.ranker.com/list/live-aid-behind-the-scenes-stories/oliver-pretl-drummond)
-
----
-
-a lot of things are in the Live Aid wiki, the people that organized it, the people that inspired it, etc
-
----
-
-## 2022-06-21 Notes from Meeting 
-- look into the groups affected by the famine specifically 
-- look into boy george 
-- focus more on the historical events leading up to the concert
-- going in the right direction 
-- could get people that left ethiopia at the time's opinion on the money coming from live aid and oxfam 
-- look for professors at UT that teach recent African history?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 ## Ethnic Groups of Ethiopia 
 ### [Oromo People](https://en.wikipedia.org/wiki/Oromo_people)
 - generally from oromia
@@ -388,7 +349,7 @@ a lot of things are in the Live Aid wiki, the people that organized it, the peop
   - some are Christians 
   - traditional religion native to the Oromo people is [Waaqeffanna](https://en.wikipedia.org/wiki/Waaqeffanna)
     - an ancient monotheistic religion native to the Oromos in addition to the Somalis.
-- a [cushitic](https://en.wikipedia.org/wiki/Cushitic_people) ethnic group 
+- a [Cushitic](https://en.wikipedia.org/wiki/Cushitic_people) ethnic group 
 - used to use [Gadaa](https://en.wikipedia.org/wiki/Gadaa) system of governance
 
 ### [Amhara people](https://en.wikipedia.org/wiki/Amhara_people)
@@ -401,7 +362,18 @@ a lot of things are in the Live Aid wiki, the people that organized it, the peop
   - they are mostly [Oriental Orthodox Christian](https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches)
   - members of the [Ethiopian Orthodox Tewahedo Church](https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Tewahedo_Church)
 
-### Tigrayans
+### [Somalis](https://en.wikipedia.org/wiki/Somalis)
+- an East Cushitic ethinic group
+- native language is the [Somali language](https://en.wikipedia.org/wiki/Somali_language)
+  - a part of the [Cushitic](https://en.wikipedia.org/wiki/Cushitic_languages) language family 
+  - a part of the [afroasiatic language family](https://en.wikipedia.org/wiki/Afroasiatic_language_family)
+- one of the largest ethnic groups on the african continent
+- religious background 
+  - primarily sunni muslim 
+- share a lot in common with lowland east cushitic people 
+  - specifically the [Afar](https://en.wikipedia.org/wiki/Afar_people) and [Saho](https://en.wikipedia.org/wiki/Saho_people)
+
+### [Tigrayans](https://en.wikipedia.org/wiki/Tigrayans)
 - indigenous to the Tigray region 
   - northern ethiopia 
 - speak [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language)
@@ -416,3 +388,23 @@ a lot of things are in the Live Aid wiki, the people that organized it, the peop
 - still lots of [gerontocratic rule](https://en.wikipedia.org/wiki/Gerontocracy)
 - and in the past there was still feudal lords
   - like in the [adwa](https://en.wikipedia.org/wiki/Adwa) region
+
+---
+
+## 2022-06-21 Notes from Meeting 
+- look into the groups affected by the famine specifically 
+- look into boy george 
+- focus more on the historical events leading up to the concert
+- going in the right direction 
+- could get people that left ethiopia at the time's opinion on the money coming from live aid and oxfam 
+- look for professors at UT that teach recent African history?
+
+---
+
+## Misc Notes
+- there are more somalis in ethiopia than somalia (by landmass ethiopia is bigger)
+- ethiopia has five national languages
+- a lot of things are in the Live Aid wiki, 
+  - the people that organized it
+  - the people that inspired it
+  - etc
