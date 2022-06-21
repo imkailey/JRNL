@@ -170,3 +170,77 @@ https://www.latimes.com/archives/la-xpm-1985-07-06-me-9534-story.html
 https://en.m.wikipedia.org/wiki/Dave_Marsh
 
 ---
+
+## live aid Wiki 
+
+### Fund use in Ethiopia
+- Geldof deliberately ignored warnings from **Médecins Sans Frontières**
+  - about the role of the Ethiopian Government under Derg leader **Mengistu Haile Mariam** in causing the famine and that by working with Mengistu directly
+- funds from live aid were siphoned off to buy arms from the soviet union
+  - this exacerbated existing issues
+- Geldof ignored them and the **Spin** article, thinking he could still do good in the area on his own 
+- wasnt an issue with Band Aid, but was with Live Aid 
+
+## Derg Wiki 
+- ruled Ethiopia and present-day Eritrea 
+- 12 September 1974 to 1987
+  - when the military leadership formally "civilianized" 
+  - stayed in power until 1991
+- established in June 1974 as the Coordinating Committee of the Armed Forces, Police and Territorial Army
+  - by officers of the Ethiopian Army and Police
+  - led initially by chairman Mengistu Haile Mariam
+- the Derg overthrew the Ethiopian Empire and Emperor Haile Selassie
+  - established Ethiopia as a Marxist-Leninist state with itself as the vanguard party in a provisional government
+  - abolition of feudalism, increased literacy, nationalization, and sweeping land reform became priorities
+- Mengistu became chairman in 1977 
+  - launching the Red Terror (Qey Shibir) political repression campaign
+  - tens of thousands of political opponents imprisoned and executed without trial
+- By the mid-1980s Ethiopia was plagued by multiple issues, such as 
+  - droughts
+  - economic decline 
+  - increasing reliance on foreign aid
+  - recovering from the Ogaden War
+  - 1983–1985 famine from which the Derg itself estimated more than a million deaths during its time in power
+- Conflicts between the Derg and various ethnic militias saw a gradual resurgence
+  - Ethiopian Civil War 
+  - Eritrean War of Independence
+- Mengistu abolished the Derg in 1987 
+  - formed the People's Democratic Republic of Ethiopia 
+  - led by the Workers' Party of Ethiopia
+  - new government containing civilians 
+    - still dominated by members of the Derg
+- **Mengistu is still alive and I believe free** 
+  - despite being convicted of genocide??
+
+## Solomonic dynasty
+- aka the House of Solomon
+- was a dynasty of the Ethiopian Empire 
+- formed in the thirteenth century
+- Its members claim lineal descent from the biblical King Solomon and the Queen of Sheba
+- Tradition asserts that the queen gave birth to Menelik I after her biblically described visit to Solomon in Jerusalem
+- 1270: Zagwe dynasty was overthrown by Yekuno Amlak
+  - claimed descent from Solomon and founded the Solomonic era of Ethiopia
+- The dynasty lasted until 1974
+  - ended by a coup d'état and the deposition of **Haile Selassie**
+    - a Solomonic prince through his grandmother
+- potentially still living members
+  - were freed by 1990
+  - could try to find living members and try to get their perspective 
+- the royal line not necessarily super clear
+  - looks like people were more distantly related 
+
+https://en.wikipedia.org/wiki/Live_Aid#Fund_use_in_Ethiopia
+https://en.wikipedia.org/wiki/Derg
+https://en.wikipedia.org/wiki/Solomonic_dynasty
+
+---
+
+## ranker 
+- the who blew a fuse at the stadium and the braodcast was inturrupted but they kept performing
+- for unknown reasons tom petty flipped off the audience during a song american girl
+
+https://www.ranker.com/list/live-aid-behind-the-scenes-stories/oliver-pretl-drummond
+
+---
+
+a lot of things are in the live aid wiki, the people that organized it, the people that inspired it, etc

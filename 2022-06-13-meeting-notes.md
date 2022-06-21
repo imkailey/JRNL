@@ -1,4 +1,5 @@
 # 2022-06-13-meeting-notes
+
 ### what to do next
 - give the event context
 - what did the world look like at the time
