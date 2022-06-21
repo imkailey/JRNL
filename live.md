@@ -333,7 +333,7 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 - the who blew a fuse at the stadium and the braodcast was inturrupted but they kept performing
 - for unknown reasons tom petty flipped off the audience during a song american girl
 
-https://www.ranker.com/list/live-aid-behind-the-scenes-stories/oliver-pretl-drummond
+[Live Aid Behind the Scenes Ranker](https://www.ranker.com/list/live-aid-behind-the-scenes-stories/oliver-pretl-drummond)
 
 ---
 
@@ -345,6 +345,9 @@ a lot of things are in the Live Aid wiki, the people that organized it, the peop
 - look into the groups affected by the famine specifically 
 - look into boy george 
 - focus more on the historical events leading up to the concert
+- going in the right direction 
+- could get people that left ethiopia at the time's opinion on the money coming from live aid and oxfam 
+- look for professors at UT that teach recent African history?
 
 
 
@@ -353,3 +356,63 @@ a lot of things are in the Live Aid wiki, the people that organized it, the peop
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Ethnic Groups of Ethiopia 
+### [Oromo People](https://en.wikipedia.org/wiki/Oromo_people)
+- generally from oromia
+  - central and southern Ethiopia 
+- Speak Oromo as a native language 
+  - a part of the [afroasiatic language family](https://en.wikipedia.org/wiki/Afroasiatic_language_family)
+  - a part of the Cushitic language family 
+- religious background
+  - most modern Oromos are Muslims 
+  - some are Christians 
+  - traditional religion native to the Oromo people is [Waaqeffanna](https://en.wikipedia.org/wiki/Waaqeffanna)
+    - an ancient monotheistic religion native to the Oromos in addition to the Somalis.
+- a [cushitic](https://en.wikipedia.org/wiki/Cushitic_people) ethnic group 
+- used to use [Gadaa](https://en.wikipedia.org/wiki/Gadaa) system of governance
+
+### [Amhara people](https://en.wikipedia.org/wiki/Amhara_people)
+- traditionally from [Amhara region](https://en.wikipedia.org/wiki/Amhara_Region)
+  - parts of the northwest Highlands of Ethiopia
+- Speak Amharic as a native language
+  - a part of the [ethiopian semitic language family](https://en.wikipedia.org/wiki/Ethiopian_Semitic_languages)
+  - a part of the [afroasiatic language family](https://en.wikipedia.org/wiki/Afroasiatic_language_family)
+- religious background 
+  - they are mostly [Oriental Orthodox Christian](https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches)
+  - members of the [Ethiopian Orthodox Tewahedo Church](https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Tewahedo_Church)
+
+### Tigrayans
+- indigenous to the Tigray region 
+  - northern ethiopia 
+- speak [Tigrinya](https://en.wikipedia.org/wiki/Tigrinya_language)
+  - a part of the [ethiopian semitic language family](https://en.wikipedia.org/wiki/Ethiopian_Semitic_languages)
+  - a part of the [afroasiatic language family](https://en.wikipedia.org/wiki/Afroasiatic_language_family)
+- religious background
+  - extremely religious 
+  - the Christian Orthodox fasting periods are strictly observed
+  - language of the church remains exclusively Ge’ez
+  - primarily members of the [Ethiopian Orthodox Tewahedo Church](https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Tewahedo_Church)
+- tigrayan society very [communitarian](https://en.wikipedia.org/wiki/Communitarianism)
+- still lots of [gerontocratic rule](https://en.wikipedia.org/wiki/Gerontocracy)
+- and in the past there was still feudal lords
+  - like in the [adwa](https://en.wikipedia.org/wiki/Adwa) region
