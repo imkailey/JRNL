@@ -270,11 +270,11 @@ https://en.m.wikipedia.org/wiki/Dave_Marsh
 - EPDRF dissolved pdre and replaced it with the transitional government of Ethiopia (TGE)
 
 ## Transitional Government of Ethiopia (TGE)
-- meles zenawi President at start 
-- tamrat layne prime minister at start
+- Meles Zenawi President 
+- Tamrat Layne prime minister 
 - redid regional boundaries to align with ethnic and language Boundaries
 - 1991-1995
-- federal Democratic republic of Ethiopia came after, still remains today
+- federal Democratic Republic of Ethiopia came after, still remains today
 - National Conference on Peace and Reconciliation July 1991
   - the conference was intended to outline a transitional framework for the period following the newest regime change
   - Group that attended had to be ethnicity based
