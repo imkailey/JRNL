@@ -265,8 +265,8 @@ https://en.m.wikipedia.org/wiki/Dave_Marsh
 - A lot of de facto power
 - President had a huge power legislatively and executively
 - President head of council of state
-  - acted for shengo between sessions
-- principles of democratic centralism meant shengo just rubber stamped things from the politburo and WPE 
+  - acted for Shengo between sessions
+- principles of democratic centralism meant Shengo just rubber stamped things from the politburo and WPE 
 - EPDRF dissolved pdre and replaced it with the transitional government of Ethiopia (TGE)
 
 ## Transitional Government of Ethiopia (TGE)
