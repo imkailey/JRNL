@@ -314,25 +314,18 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 - ethiopia is generally a drought stricken region
   - now as in the past this has been used as a tool of war 
 - the 1983-1985 drought was made way worse due to such a tactic
-  - especially in tigray
-
-
-
-
-
-
-
-
-
-
-
+  - especially in Tigray
+  - along with other regions that had or could have had insurgents
+- a lot of the ngos that were given resources by live aid and oxfam were in part controlled by the ethiopian government
+  - didnt have the right incentives to actually feed people in the regions with civil war 
 
 [Solomonic Dynasty Wikipedia](https://en.wikipedia.org/wiki/Solomonic_dynasty)<br>
 [Derg Wikipedia](https://en.wikipedia.org/wiki/Derg)<br>
 [Live Aid Wikipedia](https://en.wikipedia.org/wiki/Live_Aid#Fund_use_in_Ethiopia)<br>
 [PDRE Wikipedia](https://en.wikipedia.org/wiki/People%27s_Democratic_Republic_of_Ethiopia)<br>
 [TGE Wikipedia](https://en.wikipedia.org/wiki/Transitional_Government_of_Ethiopia)<br>
-[1983–1985 famine in Ethiopia](https://en.wikipedia.org/wiki/1983%E2%80%931985_famine_in_Ethiopia)<br>
+[1983–1985 famine in Ethiopia Wikipedia](https://en.wikipedia.org/wiki/1983%E2%80%931985_famine_in_Ethiopia)<br>
+[Ethiopia’s unforgettable famines: Here’s why they really happen Article CBC](https://www.cbc.ca/documentarychannel/features/ethiopias-unforgettable-famines-heres-why-they-really-happen)<br>
 
 ---
 
