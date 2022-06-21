@@ -381,8 +381,8 @@ a lot of things are in the Live Aid wiki, the people that organized it, the peop
 - generally from oromia
   - central and southern Ethiopia 
 - Speak Oromo as a native language 
+  - a part of the [Cushitic](https://en.wikipedia.org/wiki/Cushitic_languages) language family 
   - a part of the [afroasiatic language family](https://en.wikipedia.org/wiki/Afroasiatic_language_family)
-  - a part of the Cushitic language family 
 - religious background
   - most modern Oromos are Muslims 
   - some are Christians 
