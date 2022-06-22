@@ -327,6 +327,41 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 - a lot of the ngos that were given resources by live aid and oxfam were in part controlled by the ethiopian government
   - didnt have the right incentives to actually feed people in the regions with civil war 
 
+
+## Ethiopian Civil War
+
+### 1970s
+
+#### [ethiopian red terror](https://en.wikipedia.org/wiki/Qey_Shibir)
+- the derg wasnt able to take full control over the country 
+- different militant groups tried to break pieces off 
+  - Eritrean Sepratists 
+    - [Eritrean War of Independence since 1961](https://en.wikipedia.org/wiki/Eritrean_War_of_Independence)
+  - [Ethiopian Democratic Union (EDU)](https://en.wikipedia.org/wiki/Ethiopian_Democratic_Union)
+    - conservative and pro-monarchy
+  - [Ethiopian People's Revolutionary Party (EPRP)](https://en.wikipedia.org/wiki/Ethiopian_People%27s_Revolutionary_Party)
+    - rival Marxist-Leninist
+  - [Tigray People's Liberation Front (TPLF)](https://en.wikipedia.org/wiki/Tigray_People%27s_Liberation_Front)
+    - ethnic sepratist group 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Solomonic Dynasty Wikipedia](https://en.wikipedia.org/wiki/Solomonic_dynasty)<br>
 [Derg Wikipedia](https://en.wikipedia.org/wiki/Derg)<br>
 [Live Aid Wikipedia](https://en.wikipedia.org/wiki/Live_Aid#Fund_use_in_Ethiopia)<br>
@@ -334,6 +369,7 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 [TGE Wikipedia](https://en.wikipedia.org/wiki/Transitional_Government_of_Ethiopia)<br>
 [1983–1985 famine in Ethiopia Wikipedia](https://en.wikipedia.org/wiki/1983%E2%80%931985_famine_in_Ethiopia)<br>
 [Ethiopia’s unforgettable famines: Here’s why they really happen Article CBC](https://www.cbc.ca/documentarychannel/features/ethiopias-unforgettable-famines-heres-why-they-really-happen)<br>
+[Ethiopian Civil War](https://en.wikipedia.org/wiki/Ethiopian_Civil_War)
 
 ---
 
