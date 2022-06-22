@@ -181,7 +181,7 @@ https://en.m.wikipedia.org/wiki/Dave_Marsh
 
 ---
 
-## Solomonic dynasty
+## [Solomonic Dynasty Wikipedia](https://en.wikipedia.org/wiki/Solomonic_dynasty)
 - aka the House of Solomon
 - was a dynasty of the Ethiopian Empire 
 - formed in the thirteenth century
@@ -198,7 +198,7 @@ https://en.m.wikipedia.org/wiki/Dave_Marsh
 - the royal line not necessarily super clear
   - looks like people were more distantly related 
 
-## Derg Wiki 
+## [Derg Wikipedia](https://en.wikipedia.org/wiki/Derg) 
 - ruled Ethiopia and present-day Eritrea 
 - 12 September 1974 to 1987
   - when the military leadership formally "civilianized" 
@@ -343,11 +343,34 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
     - rival Marxist-Leninist
   - [Tigray People's Liberation Front (TPLF)](https://en.wikipedia.org/wiki/Tigray_People%27s_Liberation_Front)
     - ethnic sepratist group 
+- the Ogaden War was triggered 
+  - On 13 July 1977,  
+  - when the Somali Democratic Republic invaded Ethiopia to annex the Ogaden and former Reserve area, 
+    - a predominantly Somali populated border region. 
+- A month earlier, Mengistu accused Somalia of infiltrating Somali National Army (SNA) soldiers into the Ogaden to fight alongside the Western Somali Liberation Front (WSLF)
+  - Somalia's leader Siad Barre strongly denied this by stating SNA "volunteers" were being allowed to help the WSLF
 
+### 1980s
+- The Derg in its attempt to introduce full-fledged socialist ideals
+  - fulfilled its main slogan of "Land to the Tiller"
+  - redistributing land in Ethiopia that once belonged to landlords to the peasants tilling the land
+  - Although this was made to seem like a fair and just redistribution
+    - the mismanagement
+	- corruption
+	- general hostility to the Derg's violent and harsh rule 
+	- coupled with the draining effects of constant warfare
+	- separatist guerrilla movements in Eritrea and Tigray
+	- resulted in a drastic decline in general productivity of food and cash crops
 
+### 1990s
+- May 1991
+- Mengistu's government was finally overthrown by 
+  - its own officials 
+  - a coalition of rebel forces
+  - the Ethiopian People's Revolutionary Democratic Front (EPRDF)
+- after their bid for a push on the capital Addis Ababa became successful
 
-
-
+### Peasant Revolution in Ethiopia 
 
 
 
@@ -369,7 +392,7 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 [TGE Wikipedia](https://en.wikipedia.org/wiki/Transitional_Government_of_Ethiopia)<br>
 [1983–1985 famine in Ethiopia Wikipedia](https://en.wikipedia.org/wiki/1983%E2%80%931985_famine_in_Ethiopia)<br>
 [Ethiopia’s unforgettable famines: Here’s why they really happen Article CBC](https://www.cbc.ca/documentarychannel/features/ethiopias-unforgettable-famines-heres-why-they-really-happen)<br>
-[Ethiopian Civil War](https://en.wikipedia.org/wiki/Ethiopian_Civil_War)
+[Ethiopian Civil War](https://en.wikipedia.org/wiki/Ethiopian_Civil_War)<br>
 
 ---
 
@@ -424,6 +447,14 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 - still lots of [gerontocratic rule](https://en.wikipedia.org/wiki/Gerontocracy)
 - and in the past there was still feudal lords
   - like in the [adwa](https://en.wikipedia.org/wiki/Adwa) region
+
+---
+
+https://www.spin.com/featured/live-aid-the-terrible-truth-ethiopia-bob-geldof-feature/
+
+---
+
+https://www.spin.com/2015/07/live-aid-bob-geldof-response-spin-1986-feature/
 
 ---
 
