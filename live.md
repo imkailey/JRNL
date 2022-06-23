@@ -371,6 +371,19 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 - after their bid for a push on the capital Addis Ababa became successful
 
 ### Peasant Revolution in Ethiopia 
+- managed to discourage trade through commandeering both illegal and legal trade done throuhout the country
+- moved a lot of shipping to part time night traffickers
+- REST became a thing
+  - Tigrayan releif fund stuff
+  - funded by ngos abroad
+  - helped get people from abroad to help overthrow the derg
+    - brought attention and support from a more international crowd
+
+### Triumph (1985–1991)
+- the derg was starting to move resources from war to the famine
+- the TPLF were able to weather the famine way easier and got the support of the peasants 
+- by 1987 the TPLF and derg were at a stalemate
+- 
 
 
 
