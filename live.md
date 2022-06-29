@@ -463,6 +463,40 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 
 ---
 
+## Spin 1
+- cites experts saying live aid is funding the government regime
+  - add experts to sheet
+- live aid couldn’t tell Ethiopia was faking being in control
+- the general media covered the famine very irresponsibly
+  - most of them left when things got worse
+  - ones that remained were in the capitol
+  - ignored that the war was worse than the famine
+- a lot of food and aid made it to ethiopia
+  - most of the effort from the government went to transporting the arms
+  - no transportation
+  - antiquated trains and roads
+  - government wouldnt give resouces to transport the goods past port cities
+- got the food there without knowing how to get it to ppl
+  - a lot of it rotted
+  - band aid trust went into the transportation business
+  - fixed up broken trucks from sudan
+  - took 5 months
+  - famine got worse
+- tons of the food got taken by the government when they did actually end up transporting it
+- on top of that mengistu didnt let food go to the other side of the war
+  - most of the famine victims were on the other side of the war
+  - geldof didnt betray mengistu
+
+### ethiopia was helped by live aid in bad ways
+- now one of the biggest well armed military countries in africa
+- used chemical warfare on civilians according to u.s report
+- destroyed farmland of revolutionaries while using live aid funds to get food on their side and help their army
+- used food as a lure to get people to leave the tigray and eritrea and head to feeding stations
+- reseettlement programs were insidious and directly used live aid aid
+- ethiopian army went to feeding stations from ngos and rounded people up 
+- More than 600,000 people were relocated this way, and 100,000 died in the savage transport
+
+<!--cont from last highlihgt-->
 https://www.spin.com/featured/live-aid-the-terrible-truth-ethiopia-bob-geldof-feature/
 
 ---
