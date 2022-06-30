@@ -463,7 +463,7 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 
 ---
 
-## Spin 1
+## [Live Aid: The Terrible Truth - SPIN](https://www.spin.com/featured/live-aid-the-terrible-truth-ethiopia-bob-geldof-feature/)
 - cites experts saying live aid is funding the government regime
   - add experts to sheet
 - live aid couldn’t tell Ethiopia was faking being in control
@@ -496,12 +496,43 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 - ethiopian army went to feeding stations from ngos and rounded people up 
 - More than 600,000 people were relocated this way, and 100,000 died in the savage transport
 
+### school aid
+- package that got given to school children
+- explained the natural causes of famine
+- explained the interdependence of the world
+- didnt mention the war or the resettlement
+- lied to children about the situation to give them a false sense of the world and what needed to be done
+
 <!--cont from last highlihgt-->
-https://www.spin.com/featured/live-aid-the-terrible-truth-ethiopia-bob-geldof-feature/
+[Live Aid: The Terrible Truth - SPIN](https://www.spin.com/featured/live-aid-the-terrible-truth-ethiopia-bob-geldof-feature/)
 
 ---
 
-https://www.spin.com/2015/07/live-aid-bob-geldof-response-spin-1986-feature/
+## [Live Aid: Bob Geldof’s Original Response to SPIN’s 1986 Exposé](https://www.spin.com/2015/07/live-aid-bob-geldof-response-spin-1986-feature/)
+- geldof tried to paint spin as the ones who were really clueless as to what was going on instead of the other way around
+  - instead didn’t address a lot of the root problems that were brought up by spin
+- made it look like msf was a way larger part of the operation, but spin was in charge the entire time and simply coordinated with msf for interviews and info
+- dunning Kruger 
+
+[Live Aid: Bob Geldof’s Original Response to SPIN’s 1986 Exposé - SPIN](https://www.spin.com/2015/07/live-aid-bob-geldof-response-spin-1986-feature/)
+
+---
+
+## this day in history
+- Organized in just 10 weeks
+- featured more than 75 acts
+- where Joan Baez famously kicked it off by telling the crowd "this is your Woodstock, and it's long overdue"
+- the 16-hour “superconcert” was globally linked by satellite to more than a billion viewers in 110 nations
+- raised more than $125 million in famine relief for Africa
+- In 1984, Geldof traveled to Ethiopia after hearing news reports of a horrific famine that had killed hundreds of thousands of Ethiopians and threatened to kill millions more
+  - After returning to London, he called Britain’s and Ireland’s top pop artists together to record a single to benefit Ethiopian famine relief
+  - the best-selling single in Britain to that date and raised more than $10 million
+- queen’s performance was surprising and helped bring the band back to the forefront
+- Live Aid eventually raised $127 million in famine relief for African nations
+  - publicity it generated encouraged Western nations to make available enough surplus grain to end the immediate hunger crisis in Africa
+- In early July 2005, Geldof staged a series of “Live 8″ concerts in 11 countries around the world to help raise awareness of global poverty
+
+[Live Aid concert raises $127 million for famine relief in Africa - History Channel Website](https://www.history.com/.amp/this-day-in-history/live-aid-concert)
 
 ---
 
