@@ -8,4 +8,7 @@ A log line or logline is a brief summary of a television program, film, or book 
 Pro wrestlers Matt Cardona and Brian Myers were at the top of the WWE mountaintop when COVID hit, and along with more than 100 other wrestlers, they were fired. Life on the Ropes is their comeback story -  chronicling Matt and Brian as they try to rebuild their lives and chart their own course by creating their own wrestling league.
 
 **My Logline:**
-Craft beer has grown as an industry throughout the U.S. as regulations on the creation and sale of alcohol have been laxed. National Brewery Tour is a guided tour through America's craft breweries, highlighting the regional specialities of the different sections of the country. 
+Craft beer has grown as an industry throughout the U.S. as regulations on the creation and sale of alcohol have been laxed in different areas around the country. National Brewery Tour is a guided tour through America's craft breweries, highlighting the regional specialities of the different sections of the country. 
+
+2013 texas allow craft breweries to serve their own beer 
+in the last couple years can get beer to go
