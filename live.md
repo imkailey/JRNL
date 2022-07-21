@@ -561,3 +561,15 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 
 ### [Bob Geldof acknowledging inspiration](https://en.wikipedia.org/wiki/The_Concert_for_Bangladesh#/media/File:Geldofsigning.jpg)
 - Bob Geldof (pictured at a promotional event for Live 8) acknowledged the Concert for Bangladesh as his inspiration for staging Live Aid in 1985
+
+### important names
+- former Beatles guitarist [George Harrison](https://en.wikipedia.org/wiki/George_Harrison)
+- Indian sitar player [Ravi Shankar](https://en.wikipedia.org/wiki/Ravi_Shankar)
+- featured a supergroup of performers that included 
+  - fellow ex-Beatle [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr)
+  - [Bob Dylan](https://en.wikipedia.org/wiki/Bob_Dylan)
+  - [Eric Clapton](https://en.wikipedia.org/wiki/Eric_Clapton)
+  - [Billy Preston](https://en.wikipedia.org/wiki/Billy_Preston)
+  - [Leon Russell](https://en.wikipedia.org/wiki/Leon_Russell)
+  - the band [Badfinger](https://en.wikipedia.org/wiki/Badfinger)
+  - [Ali Akbar Khan](https://en.wikipedia.org/wiki/Ali_Akbar_Khan)
