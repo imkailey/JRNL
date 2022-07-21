@@ -6,7 +6,6 @@
   - Was this regular for newspapers of the time?
 - Stuart Ramser knows my mom
   - The Austin American-Statesman owner
-
 <!--## Things to look into
 - [x] lawsuit for coverage of Live Aid over radio from the record labels
 - [x] individuals involved in everything-->
@@ -17,6 +16,7 @@
 - [x] President of Pepsi/marketing from this time period
   - Couldn't find the marketing head-->
 <!---->
+
 ---
 
 ### A rock 'n' roll telethon with a $10-million goal
@@ -327,7 +327,6 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 - a lot of the ngos that were given resources by live aid and oxfam were in part controlled by the ethiopian government
   - didnt have the right incentives to actually feed people in the regions with civil war 
 
-
 ## Ethiopian Civil War
 
 ### 1970s
@@ -383,20 +382,6 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 - the derg was starting to move resources from war to the famine
 - the TPLF were able to weather the famine way easier and got the support of the peasants 
 - by 1987 the TPLF and derg were at a stalemate
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [Solomonic Dynasty Wikipedia](https://en.wikipedia.org/wiki/Solomonic_dynasty)<br>
 [Derg Wikipedia](https://en.wikipedia.org/wiki/Derg)<br>
@@ -563,7 +548,3 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 - a supergroup of performers that included Harrison, fellow ex-Beatle Ringo Starr, Bob Dylan, Eric Clapton, Billy Preston, Leon Russell and the band Badfinger. In addition, Shankar and Ali Akbar Khan 
 - a big indian music focus for some reason
 - estimated $12 million had been sent to Bangladesh
-
-
-
-
