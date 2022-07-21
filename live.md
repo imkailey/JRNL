@@ -553,3 +553,17 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
   - the people that organized it
   - the people that inspired it
   - etc
+
+---
+
+## [The Concert for Bangladesh](https://en.wikipedia.org/wiki/The_Concert_for_Bangladesh)
+- pair of benefit concerts organised by former Beatles guitarist George Harrison and Indian sitar player Ravi Shankar
+- Sunday, 1 August 1971, at Madison Square Garden in New York City
+- The event was the first-ever benefit of such a magnitude
+- a supergroup of performers that included Harrison, fellow ex-Beatle Ringo Starr, Bob Dylan, Eric Clapton, Billy Preston, Leon Russell and the band Badfinger. In addition, Shankar and Ali Akbar Khan 
+- a big indian music focus for some reason
+- estimated $12 million had been sent to Bangladesh
+
+
+
+
