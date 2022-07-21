@@ -547,6 +547,7 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 - The event was the first-ever benefit of such a magnitude
 - a supergroup of performers that included Harrison, fellow ex-Beatle Ringo Starr, Bob Dylan, Eric Clapton, Billy Preston, Leon Russell and the band Badfinger. In addition, Shankar and Ali Akbar Khan 
 - a big indian music focus for some reason
+  - pakistan is close to india, bangladesh split off from pakistan, and a lot of refugees from bangladesh went to india
 - estimated $12 million had been sent to Bangladesh
 - seems as though wasnt that much controvercy in where the aid went in the end
 - a lot of issues getting the rights to musicians
@@ -557,12 +558,12 @@ In recent years, the favored explanation for the famine of 1983–1985 is "war a
 - relatively minimal security and minimal issues with rioting and stuff
 - 200 non ticketholders got in at one point, but otherwise relatively uneventful security wise
 - didnt register it as a UNISEF event beforehand, so money got held up with the IRS for a long time
-- initially 2 million of aid, eventually an additional 8 million was added
+- initially $2 million of aid, eventually an additional $8 million was added
 
-### [Bob Geldof acknowledging inspiration](https://en.wikipedia.org/wiki/The_Concert_for_Bangladesh#/media/File:Geldofsigning.jpg)
+### [Bob Geldof Acknowledging Inspiration](https://en.wikipedia.org/wiki/The_Concert_for_Bangladesh#/media/File:Geldofsigning.jpg)
 - Bob Geldof (pictured at a promotional event for Live 8) acknowledged the Concert for Bangladesh as his inspiration for staging Live Aid in 1985
 
-### important names
+### Important Names
 - former Beatles guitarist [George Harrison](https://en.wikipedia.org/wiki/George_Harrison)
 - Indian sitar player [Ravi Shankar](https://en.wikipedia.org/wiki/Ravi_Shankar)
 - featured a supergroup of performers that included 
