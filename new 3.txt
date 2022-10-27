@@ -17,16 +17,10 @@
   - find comparable films 
   - ask them how their experiences were
 
+- you are hiring them 
 
-
-
-
-
-
-
-
-
-
-
-
-
+### questions asking them 
+- why my film?
+- potential buyers list?
+- how any other fimls are you representing?
+- reference check!
