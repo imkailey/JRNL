@@ -23,5 +23,9 @@
   - macro vs micro nutrients
     - need more of macro 
 - scientific method
+  - know all of the steps
 - study designs and interpreting evidence
+  - different kinds of study designs and interpreting evidence
+    - talked about observational studies a lot
+
 
