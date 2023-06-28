@@ -27,5 +27,372 @@
 - study designs and interpreting evidence
   - different kinds of study designs and interpreting evidence
     - talked about observational studies a lot
+	- what kinds of studies are generalizable and what are not
 
 
+- dietary reference intakes (DRI)
+  - EAR, RDA, AI, UL
+  - know how find and what differences are
+- Estimated Energy Requirement (EER)
+  - how many calories a day to be in balance
+- Acceptable macronutrient distribution ranges 
+  - carbs, fat, protein 
+    - daily ranges that you can fall within and still be considered healthy
+  - know how calculate daily kcalories/grams within AMDRs
+    - all of these numbers are in these chapters 
+	- examples in lectures
+- Nutrition information sources 
+  - (from the chapter but also from the debate)
+  - registered dietitians
+  - analyzing information from different sources (e.g. internet)
+
+
+- diet planning principles
+  - adequacy, balance, energy control (calorie balance), nutrient density(looking at foods with vitamins and minerals), moderation, variety
+- dietary guidelines for americans (DGA)
+  - keep in mind different from DRI
+    - not nutrient guidelines
+  - healthy eating index
+  - current recommendations
+- usda food patterns
+  - analyze meals for the six food groups and subgroups
+    - which types of food each food group or sub group
+  - serving sizes and equivalent measures for six food groups and subgroups
+    - things like what does cup of juice equal in whole fruit
+- my plate
+  - how to break down foods in healthy way according to my plate 
+
+- food processing
+  - whole: 
+  - fortified: 
+  - minimally processed: 
+  - ultra processed: 
+  - grains
+    - refined: 
+    - enriched: 
+	- whole grain: 
+- american dietary habits
+  - overconsumptionj and underconsumption of certain nutrients
+    - what are typically overconsumed: 
+	- what are typically underconsumed: 
+- nutrition labels (ch 1 and 2 but also the debate)
+  - differences between claims on nutrition labels: 
+    - nutrient claims
+	  - 
+	- health claims
+	  - 
+	- structure function claims
+	  - 
+  - interpreting nutrition facts labels: 
+    - finding serving size: 
+	- calculating total kcal from each major nutrient groups: 
+	- interpreting ingredients list: 
+	- new labels vs old labels: 
+
+
+#### questions
+- they will give us the physical activity level if they ask us to fill out sex and age and stuff into something
+  - chart given in lectures
+- math questions will be multiple choice
+- the serving size is what is recommended to consume in one sitting
+  - if a package has mroe than one serving, they will have a column with everyhting and one with just one serving 
+  - if asked, make sure to read carefully to make sure you look  at the right thing
+  - they deliberately give all of the info in the word problem
+- will talk about debates towards the end 
+
+### chapter 3 
+- digestive processes
+  - goods journey from ingestion to excretion (pathway through digestive organs and sphincters- transition from food to bolus to chyme to stool)
+  - muscular actions
+  - secretions: (what secrets what, and what does it do to our food) 
+    - enzymes
+	- juices
+    - bile
+    - mucus
+    - directly ph changes throughout digestive processes
+- absorptive processes
+  - where in the anatomy and different pathways of nutrient absorption
+  - some go to the vascular system (i.e. bloodstream) 
+    - 
+  - some go to the lymphatic system
+    - 
+- specific digestive and absorptive processes for energy nutrients
+  - fats
+  - proteins
+  - carbs
+  - fiber
+  - slide at -52:13 (pg 7/21) that explains most of it
+
+- digestive reactions: 
+  - condensation vs 
+    - molecules come together and release water
+  - hydrolysis
+    - like when a super hero breaks something apart with a lightning bolt 
+	- the breaking apart of molecules
+	- requires water
+- GI microbiota functions
+  - know what some are
+- know about some of the GI hormone action and negative feedback loops
+  - something happens, production of them is turned on, the food reaches a certain point of digestion, turned off
+  - turning off at the end means is a negative feedback loop
+  - know where find pathways for feedback loops
+  - gastrin
+  - secretin
+  - CCK
+- Common digestive problems
+  - indigestion or heart burn 
+
+### Chapter 4
+- soluble fiber: 
+  - dissolving in water, gel formation (viscous), fermentation, and the ability to lower blood cholesterol
+  - examples: barley, oats, legumes
+- insoluble fiber
+  - indigestible components of the diet that promote bowel movements, alleviate constipation and prevent diverticular disease
+  - wheat bran, legumes, brown rice
+
+- carbs characteristics and digestion 
+  - monosaccharides: glucose, fructose, galactose
+  - disaccharides: maltose, sucrose, lactose
+  - polysaccharides: 
+    - glycogen 
+	  - stored form of glucose in the body
+	- starch(amylose, amylopectin)
+	  - stored form of glucose in plants
+	- fiber (soluble, insoluble)
+	  - provides the structure for the plants
+- carb digestion: 
+  - mouth (salivary amylase)
+  - stomach (none)
+  - small intestine, 
+    - primary site (pancreatic amylase, maltase, sucrase, lactase)
+  - large intestine (none), fermentation 
+- the disaccharides and the enzymes that digest them are the same, but the enzyme hase ase at the end, disaccharide ose
+- carb absorption 
+  - active transporters (glucose and galactose)
+  - passive (fructose)
+
+- carb metabolism
+  - glucose storage (glycogen), use for immediate energy or stored as fat
+  - organ uses (brain first, others second)
+  - glucose and hormone interactions: 
+    - blood glucose rises 
+	  - during/after meals
+	  - triggers release of insulin 
+	    - moves glucose out of storage to fuel the body
+	  - blood glucose level is lowered
+	- blood glucose falls 
+	  - between meals, overnight
+	  - triggers release of glucagon (hormone)
+	    - moves glucose out of storage to fuel body
+	  - blood glucose level is raised
+- health impacts of carbs and recommended intakes for
+  - simple sugars: 
+  - low/no calorie sweeteners: 
+  - starches and fibers: 
+
+#### questions
+- is insoluble fiber fermented by bacteria too?
+  - not typically
+  - different health impacts of each: 
+    - impacts on cholesterol
+	- preventing cardiovascular disease and diabetes
+	- promoting gut health 
+- differences in digestion between soluble and insoluble 
+- fiber rich cereals
+  - have to have certain amount of fiber 
+  - not supplements theyre still grains
+  - food based source of fiber 
+
+### Chapter 5
+- this chapter all about oils and lipids
+- important slide (12/21)
+  - chart of how many saturated fats you can find in comparison to other lipids
+- just because it comes from a plant doesn't mean its healthy
+  - coconut oil has so much saturated fat 
+  - followed by butter
+- only a couple have high polyunsaturated omega 3 fatty acids
+  - flaxseed oil 
+  - fish oil (salmon)
+
+- degrees of unsaturation of fats: 
+  - saturated:
+  - monounsaturated:
+  - polyunsaturated:
+  - characteristiccs and molecular structures of each
+  - what hydrogenation does
+  - how makes trans-fats 
+- others: 
+  - phospholipid characteristics: 
+  - sterol characteristics:
+- digestigve pathways and absorption processes of lipids 
+  - mouth (lipase)
+  - stomach(lipase)
+  - small intestine
+  - primary (bile, lipases)
+  - lymphatic system to circulation 
+	- the only nutrient that goes directly to the lymphatic system
+	- so large, need be broken down into smaller components before circulating the body
+    - fat globules-> micelles-> chylomicrons-> VLDL, etc
+
+- fat metabolism 
+  - circulating (Triglycerides) TG -> (Fatty Acids) FAs
+    - muscle and adipose tissue use lipoprotein lipase
+	- "those circulating TGs when those FAs are broken off- they are going directly to our muscle and our adipose (fat tissue) and theyre broken down by that lipoprotein lipase ( that enzyme that breaks them down). and then in our adipose tissue itself those TGs those FAs are broken down by hormone sensitive lipase"
+  - adipose TG -> FAs
+    - hormone sensitive lipase 
+- should know lipoprotein 
+  - types
+    - VLDL
+	- LDL
+	- HDL
+	- Chylomicrons
+  - **characteristics**
+    - VLDL
+	  - "Ferry boat" for triglycerides 
+	  - deliver lipids to body cells
+	  - synthesized in the liver
+	- LDL
+	  - associated with heart disease 
+	  - delivers lipids to body cells
+	- HDL
+	  - Cholesterol excretion
+	    - binds with cholesterol
+	  - synthesized in the liver 
+	- Chylomicrons
+	  - "Ferry boat" for triglycerides 
+	  - deliver lipids to body cells
+  - health implications
+    - dietary cholesterol vs blood cholesterol
+    - TGs vs cholesterol
+
+#### tangent
+- if not covered much in lecture, probably not as important 
+  - not much time talked about sterols
+  - just the structure 
+  - when started talking about cholesterol 
+    - started talking about HDL, LDL, VLDL
+	- should know more about those in depth
+  - a lot more time talking about triglycerides than sterols
+
+- Fatty acids: 
+  - many different chain lengths of fatty acid
+  - linoleic: 
+  - linolenic: 
+  - omega 3 fatty acids: 
+  - omega 6 fatty acids: 
+  - essential
+    - cannot be synthesized in the body
+	- need to be eated
+  - non essential 
+    - can be synthesized in the body 
+  - conditionally essential 
+    - might be able to be synthesized in the body depending on certain factors
+- relationships between different fats and health outcomes
+  - chronic disease 
+    - saturated and trans fats have a higher likelihood of developing
+- metabolic changes due to dietary insufficiencies
+  - low carb diet 
+    - gluconeogenesis
+
+### chapter 6
+- roles of protein in the body
+  - main macronutrient as far as muscles and building the body are concerned
+- amino acids 
+  - essential: 
+  - non essential: 
+- protein digestions 
+  - mouth 
+    - nothing
+  - stomach 
+    - HCL, pepsin
+  - small intestine
+    - proteases: 
+	- peptidases: 
+- protein absorption active transporters (AAs)
+- protein metabolism 
+  - nitrogen balance: 
+  - amino acid pool: 
+  - urea production and excretion: 
+- how these things work together to make up our body 
+
+
+- protein deficiency
+- protein and health 
+  - no effects on CVD, T2D, or Cancer
+  - benefits for weight management, glycemic control, appetite control, satiety, athletic performance
+- protein quantities
+  - Recommended dietary allowance (RDA)
+    - generalized
+  - Optimal amounts
+    - an individual might need more or less of each macronutrient
+
+#### questions 
+- is coconut oil unhealthy?
+  - yes
+- saturated vs unsat
+- sat
+  - all of the carbons are bonded in a line
+  - no hydrogens
+  - strong molecular structure
+  - more solid room temp 
+- unsat 
+  - liquid at room temp 
+  - double bonds in the carbons 
+  - better for cardiovascular health 
+- when does the body go through gluconeogenesis rather than ketosis 
+  - look up in slides
+  - will help on application based questions
+  - how many days without carbs before no more glycogen 
+  - thats when make glucose out of other things
+- is gluconeogenesis bad
+  - you need to have carbs
+  - you wont die
+  - will take things away from other things 
+  - most things need eat are carbs 
+
+### Chapter 7 (metabolic processes
+- reactions 
+  - catabolic
+    - breaking things apart and gaining energy from that
+  - anabolic
+    - building things up (takes energy)
+- role of 
+  - enzymes: 
+  - coenzymes: 
+    - the little helpers of the enzymes 
+	- needed for enzyme to function 
+  - GO FIND HOW THEY WORK TOGETHER: 
+- metabolic compounds common in the process
+  - acetyl coa 
+  - pyruvate
+- glycolysis 
+  - different from gluconeogenesis
+  - conversion of glucose to pyruvate
+- pyruvates options
+  - lactate
+    - immediate energy
+	- short burst
+  - acetyl coa 
+    - longer term energy 
+  - cori cycle
+    - the recycling process for the metabolic pathways creating glucose
+- glycerol and fatty acid pathways 
+- amino acid metabolic pathways 
+- we have a graphic on page 19/21 that goes in to detail on where things go
+  - on graphic, fats on the left, carbs in the middle, protein on the right
+- ending up at Acetyl CoA is the last step of that part of the process, from there
+
+- TCA Cycle
+  - releasing hydrogens and their associated electrons
+- electron transport chain
+  - released into the electron transport chain 
+  - start creating ATP 
+    - our energy source
+- a lot of steps to turn calories into energy
+  - be able to trace them
+- metabolic processes of overconsumption of energy nutrients
+  - there's a chart on pg 21/21
+  - should know what happens if you overeat in certain things, if you undereat certain things, or if youre starving for certain things
+  - fat
+  - carbohydrate
+  - protein
