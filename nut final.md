@@ -47,8 +47,10 @@ Vitamins
 
 - Minerals:
   - Major vs trace
+    - whats up with each 
   - Inorganic
     - Can’t be destroyed
+	  - by things like heat 
     - Can leach out and be lost in cooking water
   - Variable absorption, transport, roles in body, and bioavailability
 
@@ -73,6 +75,19 @@ Vitamins
 - Contaminant Minerals
 - Phytochemicals
 
+### questions 
+- water soluble vitamins more bioavailable?
+  - not necessarily, other aspects affect this
+  - what kind of food, waht all eating, what time 
+- is vitamin b12 considered precursor to folate
+  - they need each other, not precursor, codependent 
+- whats a precursor
+  - inactive form only becomes active in metabolic reaction 
+  - can be turned in to 
+
+
+
+
 ### ch 14 
 - Overload principle of fitness: increase in frequency, intensity, time
 - Strength training vs endurance exercise: differences, benefits
@@ -86,15 +101,28 @@ Vitamins
 ### Review concepts from Chapter 15
 - Fetal growth and development stages
   - Critical periods
+    - all organs coming together
+	- first trimester
 - Maternal weight gain: recommendations, implications, return to pre-pregnancy weight
-- Nutritional needs: total energy, carbohydrates, fats, proteins, key vitamins/minerals (folate, iron, B12, zinc, vitamin D, calcium), essential fatty acids
+- Nutritional needs: 
+  - total energy, 
+  - carbohydrates, 
+  - fats, 
+  - proteins, 
+  - key vitamins/minerals (folate, iron, B12, zinc, vitamin D, calcium)
+  - essential fatty acids
+    - imp brain development 
 - High-risk pregnancy factors
 - Maternal health conditions
   - Unsafe practices during pregnancy
 Review concepts from Chapter 15
+- difference between lactation and breast feeding 
+  - physiological response and learned behavior
 - Lactation
   - Hormones
-  - Energy nutrients needed
+    - what hormones work to cause lactation
+	- help with breast feeding
+  - Energy nutrients needed to support
   - Maternal health
   - Benefits for mothers and babies
 
@@ -102,19 +130,23 @@ Review concepts from Chapter 15
 - First 6 months of life:
   - Growth trends
   - Nutrient needs
-  - Breast milk: nutrient content, protective factors
+  - Breast milk: nutrient content, protective factors(immunological factors of breast milk
     - Colostrum
     - Formula
 - 6 months – 1 year:
   - Complementary foods
+    - solid foods start introducing
   - Food allergies
+    - preventative things
   - Positive food relationships (toddlers)
 - Nutrient recommendations and growth during childhood
   - Malnutrition in children
   - Obesity in children
+    - why having issues 
   - Meals at school
 - Nutrient recommendations and growth during adolescence
 - Development of “adult diseases” in children
+  - development could start earlier than even that
 
 ### Review concepts from Chapter 17
 - Body composition changes associated with aging
@@ -124,7 +156,25 @@ Review concepts from Chapter 15
   - Tooth changes
   - Psychological and social challenges
 - Nutrient recommendations, common deficiencies, diet-related health issues
-  - Vision, arthritis, dementia, Alzheimer’s
+  - Vision
+  , arthritis
+  , dementia
+  , Alzheimer’s
+
+### questions 
+- lactation and breast feeding 
+  - lactation: anatomimcal response to produce breast milk for feeding the kid 
+  - breast feeding is the process of getting the kid on there and having them drink it
+  - both are difficult, breast feeding can be harder even if can lactate
+- when introduce complimentary foods 
+  - dependent on the family and the kid
+  - more on how they can eat 
+  - not much later than eight months 
+- are critical periods in first trimester 
+  - bar graph that shows when each ends 
+  - all within first 12 weeks
+  - goes week by week for each organ 
+
 
 ### Review concepts from Chapter 19
 - Foodborne illnesses:
@@ -134,11 +184,18 @@ Review concepts from Chapter 15
   - Safe practices while traveling
 - Environmental contaminants:
   - Bioaccumulation
+    - different toxins
+	- especially fish
+	- especially predator fish 
+	- things like mercury
   - Pesticide residue
   - Organics (pros and cons)
+    - how regulated and monitored for different things 
 - Food additives
   - Intentional vs indirect
+    - know difference, have ex of each
   - Purposes of additives
+    - what is reason 
 - Water
   - Concerns about contamination
   - Bottled water
@@ -148,11 +205,16 @@ Review concepts from Chapter 15
 ### Review concepts from Chapter 20
 - Hunger in the U.S.
   - Poverty – obesity paradox
+    - food deserts and swamps
   - Federal food assistance programs
 - Global hunger
   - Nutrient deficiencies
   - Malnutrition
+    - different forms 
 - Agriculture systems
-  - Problems with conventional production: crops, livestock, fishing
+  - Problems with conventional production: 
+    - crops
+	, livestock
+	, fishing
   - Sustainable agriculture alternatives
   - Consumer choice and impact on food system
