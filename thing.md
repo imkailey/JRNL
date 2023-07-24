@@ -100,6 +100,8 @@
   - they deliberately give all of the info in the word problem
 - will talk about debates towards the end 
 
+- 13/38 has the math stuff for kcal/g
+
 ### chapter 3 
 - digestive processes
   - goods journey from ingestion to excretion (pathway through digestive organs and sphincters- transition from food to bolus to chyme to stool)
@@ -113,9 +115,13 @@
 - absorptive processes
   - where in the anatomy and different pathways of nutrient absorption
   - some go to the vascular system (i.e. bloodstream) 
-    - 
+    - Water-soluble nutrients and smaller products of fat digestion
+    -  Guided directly to liver
   - some go to the lymphatic system
-    - 
+    - Larger fats and fat-soluble vitamins (insoluble in water)
+    - Intestinal cells assemble products of fat digestion into larger molecules, cluster with proteins to become:
+      - Chylomicrons (fat transporters) – Uber for fat molecules
+      - Bypass liver at first
 - specific digestive and absorptive processes for energy nutrients
   - fats
   - proteins
@@ -187,8 +193,18 @@
 	  - blood glucose level is raised
 - health impacts of carbs and recommended intakes for
   - simple sugars: 
+    - ~15% of average daily energy intake from added, refined sugars…
+    - Especially sugar-sweetened beverages (SSB)
+      - Association between SSB intake and increase in body weight
+      - High-fructose corn syrup: glucose + fructose
+        - Used in SSB, candy, baked goods, and more!
+        - Compared to table sugar (sucrose): cheap, easy to use in manufacturing, soluble, blends with other flavors, etc.
+      - Increased risk of heart disease, diabetes, inflammation, hypertension
+    - there's a lot more, pg 42/59
   - low/no calorie sweeteners: 
+    - pg 44/59
   - starches and fibers: 
+    - pg 45/59
 
 #### questions
 - is insoluble fiber fermented by bacteria too?
@@ -214,6 +230,7 @@
   - flaxseed oil 
   - fish oil (salmon)
 
+- pg 12/58
 - degrees of unsaturation of fats: 
   - saturated:
   - monounsaturated:
@@ -222,8 +239,31 @@
   - what hydrogenation does
   - how makes trans-fats 
 - others: 
+  - ~5% of dietary lipids 
   - phospholipid characteristics: 
+    - Two fatty acids
+      - Hydrophobic: fat soluble
+    - AND phosphate group + N-containing compound (e.g. choline)
+      - Phosphate group: hydrophilic: water soluble
+    - Versatile: emulsifiers in food industry
+    - Lecithin: best known phospholipid
+      - Eggs, liver, soybeans, wheat germ, peanuts
+    - Roles
+      - Part of cell membranes
+      - Vitamin and hormone transport in/out of cells
+      - Emulsifier: keep fat suspended in blood
   - sterol characteristics:
+    - Multiple-ring structure
+    - Food sources
+      - Cholesterol: animal sources (meat, eggs, seafood, poultry, dairy)
+      - Plant sterols: structurally similar to cholesterol → interfere with cholesterol absorption → lower blood cholesterol
+    - Roles of sterols
+      - Vital body compounds made from cholesterol: bile acids, sex and adrenal hormones, vitamin D, cholesterol
+        - 90% of body cholesterol = in cells (≠ energy)
+        - Cholesterol made in the body = endogenous
+        - Synthesized by liver
+        - Cholesterol made outside the body (foods) = exogenous
+        - Accumulation in artery walls and plaque formation = harmful
 - digestigve pathways and absorption processes of lipids 
   - mouth (lipase)
   - stomach(lipase)
@@ -276,10 +316,12 @@
 
 - Fatty acids: 
   - many different chain lengths of fatty acid
-  - linoleic: 
-  - linolenic: 
-  - omega 3 fatty acids: 
-  - omega 6 fatty acids: 
+  - linoleic: omega 6 fatty acids: 
+    - Body can synthesize other members of omega-6 family if given linoleic acid (e.g. arachidonic acid)
+  - linolenic: omega 3 fatty acids: 
+    - Body can synthesize other members of omega-3 family if given linolenic acid (e.g. DHA and EPA)
+    - Structure and function of cells, especially in eyes and brain (growth, acuity, and development) 
+    - Structure and function of cells, especially in eyes and brain (growth, acuity, and development) 
   - essential
     - cannot be synthesized in the body
 	- need to be eated
@@ -299,20 +341,51 @@
   - main macronutrient as far as muscles and building the body are concerned
 - amino acids 
   - essential: 
+    - body requires
+	- cannot make 
+	- *essential* to derive from food 
   - non essential: 
+    - body can synthesize 
+	- also present in diet
+	- not essential to derive from food
+  - conditionally essential:
+    - become essential under certain circumstances 
+	- phenylalanine (essential) -> tyrosine (non essential)
+	- Phenylalanine (essential) → tyrosine (nonessential)
+	- Not enough phenylalanine from diet OR unable to convert (phenylketonuria) = tyrosine becomes conditionally essential
+	- Newborns = only 5 nonessential amino acids (the rest are conditionally essential until the baby develops further)
 - protein digestions 
   - mouth 
     - nothing
   - stomach 
+    - partial hydrolysis (breakdown)
     - HCL, pepsin
+	- Hydrochloric acid denatures proteins
+	- Hydrochloric acid converts gastric enzyme pepsinogen (inactive ) → pepsin (active)
+	- Digestive enzymes attack peptide bonds between amino acids
   - small intestine
+    - further hydrolysis
     - proteases: 
+	  - Pancreatic and intestinal proteases break more peptide bonds
 	- peptidases: 
+	  - Peptidase enzymes split most dipeptides and tripeptides into single amino acids
+	  - Digestive enzymes are proteins: become denatured and digested in sub-optimal pH
 - protein absorption active transporters (AAs)
 - protein metabolism 
   - nitrogen balance: 
+    - Zero nitrogen balance or nitrogen equilibrium
+	- Balance occurs when protein synthesis = protein degradation AND when protein intake from food = nitrogen excretion
+	- Positive N status: synthesis of new proteins exceeds degradation; retaining protein (and N) in tissues as blood, bone, skin, and muscle cells are built
+	  - Growing infants, children, pregnant women, recovering from injury
+	- Negative N status: protein degradation exceeds synthesis; losing proteins (and N) as muscle and other proteins are broken down for glucose or energy
   - amino acid pool: 
+    -  released amino acids mix with dietary amino acids
+	- Pattern of amino acids in pool = fairly constant, despite varying rates of protein intake and degradation
+	- Used for protein production
+	- Used for energy or glucose (if stripped of N)
+    - Can also be stored as fat
   - urea production and excretion: 
+    - Increased dietary protein intake increases urea production
 - how these things work together to make up our body 
 
 

@@ -1,0 +1,7 @@
+354 – (6.91 x 21)] + 1.12 x [(9.36 x weight) + (726 x height)]
+
+\left[354-\left(6.91\cdot 21\right)\right]+1.12\left[\left(9.36\cdot 67.27\right)+\left(726\cdot 1.73\right)\right]
+\left[354-\left(6.91\cdot 21\right)\right]+1.12\left[\left(9.36\cdot 67.27\right)+\left(726\cdot 1.73\right)\right]
+
+354−(6.91)(21)+1.12((9.36)(67.27)+(726)(1.73))
+=2320.792464

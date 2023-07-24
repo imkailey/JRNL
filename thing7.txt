@@ -1,0 +1,5 @@
+https://coolors.co/gradient-maker/432f49-ecacff-ffffff-ffffff-ecacff-432f49?position=0,28,40,55,69,100&opacity=100,100,100,100,100,100&type=linear&rotation=0
+
+
+
+https://coolors.co/gradient-maker/ffffff-ecacff-432f49?position=0,45,100&opacity=100,100,100&type=linear&rotation=90
