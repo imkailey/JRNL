@@ -10,8 +10,8 @@
 - in order of chapters?
   - should be 
 
-### ch 10-11
-Vitamins
+### ch 10-11 
+#### Vitamins
 - Do not yield energy
   - Necessary for life functions
   - Grouped by solubility in water or fat
@@ -85,9 +85,6 @@ Vitamins
   - inactive form only becomes active in metabolic reaction 
   - can be turned in to 
 
-
-
-
 ### ch 14 
 - Overload principle of fitness: increase in frequency, intensity, time
 - Strength training vs endurance exercise: differences, benefits
@@ -157,9 +154,9 @@ Review concepts from Chapter 15
   - Psychological and social challenges
 - Nutrient recommendations, common deficiencies, diet-related health issues
   - Vision
-  , arthritis
-  , dementia
-  , Alzheimer’s
+  - arthritis
+  - dementia
+  - Alzheimer’s
 
 ### questions 
 - lactation and breast feeding 
@@ -174,7 +171,6 @@ Review concepts from Chapter 15
   - bar graph that shows when each ends 
   - all within first 12 weeks
   - goes week by week for each organ 
-
 
 ### Review concepts from Chapter 19
 - Foodborne illnesses:
@@ -218,3 +214,20 @@ Review concepts from Chapter 15
 	, fishing
   - Sustainable agriculture alternatives
   - Consumer choice and impact on food system
+
+### questions
+- is malnutrition a part of stunted growth 
+  - more long term acute malnutrition 
+  - inadequate calories
+  - developmental and cognitive things
+  - maybe nutrient deficiencies
+- regulatory concerns for supplements
+  - difference in how supplements are graded
+  - same rules as foods
+  - no warning lable
+  - no have list adverse affects
+  - not regulated as pharmaceuticals
+  - some supplements can lead to overuse
+  - have to be manufactured in good quality packaging
+  - no contamination
+  - must not confuse on what it is 
