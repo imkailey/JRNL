@@ -936,7 +936,7 @@ largely a part of european judeochristian tradition
 - despite it all, they genearlly manage to adapt
 
 ### ages 3-6 p101-102
-- age 305: children typically acquire perspective and theory of mind
+- age 3-5: children typically acquire perspective and theory of mind
 - also in mixz: growing knowledge of social norms and intentions
 - result: marked increase in deceptive statements/acts and more skilled
 - "temptation resistance" experiments:
@@ -945,7 +945,7 @@ largely a part of european judeochristian tradition
   - between ages 3 and 5 most will lie but cannot effectively contain the ru...
 - many six year olds will lie and effectively feign complete ignorance
 
-###  ages6-9 p103-104
+###  ages 6-9 p103-104
 - introduction of other children (school, sport, games) ups the ante
 - these provide enhanced contexts for both deceiving and detecting
 - most teens recall "getting away with" first lie between ages 5 and 7
