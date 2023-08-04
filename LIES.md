@@ -1039,3 +1039,78 @@ largely a part of european judeochristian tradition
   - begin with an open ended question and let them answer uninterrupted
   - children not to elaborate, follow up questions should lead, condescen...
   - summarize how the child's testimony is understood and end on a postitive note
+
+# ch 4
+### intro p96
+- natural selection favors effective deceivers and decception detectors
+- these are adaptive traits that aid competition for resources
+- in nature, these skills are often a matter of **life and death** (p 73)
+- not only prevalent among animals, but also:
+  - molecular world
+  - plant life
+
+### deception at the molecular level p97-99
+- harmful pathogens depend on **deception** skills to survive
+- our immune system depends on detection skills to counter them
+- deception strategies of pathogens include:
+  - mimicry
+  - camouflage
+  - illusion
+
+### plants can deceive too p99-102
+- often to obtain food, using **fake features** to attract prey
+- sometimes used for reproduction:
+  - plants can appear, smell, and feel like an insect
+  - others use fearures and odors to attract egg layers
+- symbiotic relationships can also devcelop
+- may use deception to ward off predators
+
+### strategies of nonhuman deception: rue's typology p102-109
+- rue's (1994) typology, 3 components
+- focus is dynamic of interaction between deceivers and dupes
+  - 1st component - purpose: offensive or defensive
+  - 2nd component - strategy/effects: evasive or pervasive
+  - 3rd component - means: morphology or behavior
+
+### ability to deceive: 4 levels p83-84
+- 1. appearance
+- 2. coordination of perception and action
+- 3. learning
+- 4. planning
+- see: mitchell (1986)
+
+### level 1 deception p 84-86
+- no behavioral adapatation by deceiver
+- behavior always the same
+- muellerian mimicry
+- batesian mimicry
+
+### level 2 deception p86
+- some behavioral control by deceiver
+- defensive tactics:
+  - scaring away predators
+  - distracting predators
+- offensive tactics
+  - luring prey for meals
+  - blending in with prey to feed undetected
+
+### level 3 deception p 87-88
+- deceiver maintains or modifies behavior based on target
+- trial and eror type learning ("i get x by doing y")
+- deceiver still not "inside the mind of the target
+- nor is deception **deliverate**, just ability to change behaviors
+
+### level 4 deception p88-89
+- deceiver's behaviors deliberately deceptive
+  - can emplot counter deception without the need for trial and error
+  - can exhibit righteous indignation at being deceived by another
+  - features elements of "trickery"
+- occurs more often in nonhuman primates
+- on par with deceptive capabilities of human adults
+
+### signing apes p89-90
+- various primates have been taught gestural sigbns since 60s
+- none were taught deception in conjunction with signs
+- on their own, some learned to sign deceptively
+  - chantek signed he had eaten an eraser he was hiding
+  - koko blamed damagfed living quarters on her pet kitten: "cat did it"
